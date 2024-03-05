@@ -54,7 +54,7 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 - Also, there is a strong positive correlation between sessions, product_detail_views and the number of orders.
 - Therefore, we conclude that the website traffic has a significant correlation to the number of orders.
 
-4. **Order trand and page views**
+4. **Order trend and page views**
 
 ![06_orders_and_page-view_trend](https://github.gatech.edu/storage/user/75133/files/7d868bb8-9540-4863-9cc7-e364c90e2a17)
 
