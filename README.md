@@ -29,7 +29,11 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 1. **Sales Trend**
 
+<p align="center">
+
 ![07_sales_trend](https://github.gatech.edu/storage/user/75133/files/b862d956-50df-4359-a9f1-6b646e855d36)
+
+</p>
 
 - The sale is highest at the first month 2016-08.
 - At the second month, the sale droped sharply.
@@ -37,7 +41,11 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 2. **Sales funnel**
 
+<p align="center">
+    
 ![03_sales_funnel](https://github.gatech.edu/storage/user/75133/files/3997b09a-df03-4214-a8e7-03b91520ed9d)
+
+</p>
 
 **The overall conversion rate from page_views to final placed_orders is only 0.19%:**
 
@@ -48,7 +56,11 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 3. **Correlation between Traffic and Order**
 
+<p align="center">
+
 ![04_cor_between_traffic_and_order](https://github.gatech.edu/storage/user/75133/files/7f456711-1b95-4497-a37c-85d355247332)
+
+</p>
 
 - The result shows a strong positive correlation between page_views, and the number of orders, coefficient is 0.82.
 - Also, there is a strong positive correlation between sessions, product_detail_views and the number of orders.
@@ -56,7 +68,11 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 4. **Order trend and page views**
 
+<p align="center">
+    
 ![06_orders_and_page-view_trend](https://github.gatech.edu/storage/user/75133/files/7d868bb8-9540-4863-9cc7-e364c90e2a17)
+
+</p>
 
 - From the plot, we can see the trend of the number of orders is highly related to the page views.
 - From August 2016 to March 2018, the traffic and the number of orders are decreasing in the long term.
@@ -64,7 +80,11 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 5. **Correlation between Promotion and Orders**
 
+<p align="center">
+    
 ![08_correlation_between_promotion_and_orders](https://github.gatech.edu/storage/user/75133/files/c725fb92-dffa-4ad2-a1a5-79947c1a54ab)
+
+</p>
 
 - The correlation coefficient of discount_percentage and discount_quantity is 0.75.
 - The correlation coefficient of discount_percentage and discount_orders is 0.82.
@@ -72,19 +92,37 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 6. **Churn Rate**
 
+<p align="center">
+    
 ![09_churn_rate](https://github.gatech.edu/storage/user/75133/files/b154248e-3a99-437f-bfda-7e6845d6a8fb)
+
+</p>
 
 - The number of unique customers is decreasing overally.
 
 7. **Retention Rate**
 
+<p align="center">
+    
 ![10_retention_rate](https://github.gatech.edu/storage/user/75133/files/1cc0aaf4-00aa-49cc-a241-5ac17dbd9f46)
+
+</p>
 
 - In the cohort period 2, the retentin rate is less than 10%. After the first purchase, we can see that over 90% customers will not purchase again in the second month. It is not good for this online store if the store seeks for sustainable growth, we should focus on the old customers.
 
 8. **RFM Analysis**
 
 Summary of the clusters and marketing strategy based on RFM analysis
+
+- In order to improve the retention rate, we need to get a better understanding of the old customers.
+- Instead of analyzing the entire customer base as a whole, it’s better to segment them into homogeneous groups, understand the traits of each group, and engage them with relevant campaigns rather than segmenting on just customer age or geography.
+- One of the most popular, easy-to-use, and effective segmentation methods to enable marketers to analyze customer behavior is RFM analysis.
+
+<p align="center">
+    
+![image](https://github.com/Sol2023/e-commerce/assets/92194263/ee2e5d45-9dcf-41e8-bb25-4a519af130e6)
+
+</p>
 
 *Cluster 1**
 
