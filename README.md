@@ -35,9 +35,9 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 </p>
 
-- The sale is highest at the first month 2016-08.
-- At the second month, the sale droped sharply.
+- The sale is highest at the first month 2016-08. At the second month, the sale droped sharply.
 - After the second month, the sales went smoothly and fluctuated with the seasons and holidays.
+- The overall sales volume is decreasing.
 
 2. **Sales funnel**
 
